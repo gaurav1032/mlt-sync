@@ -1,0 +1,27 @@
+[
+  {
+    "start_time": "0.079",
+    "end_time": "2.255",
+    "beat": "Imagine coming home and seeing the evidence."
+  },
+  {
+    "start_time": "2.400",
+    "end_time": "4.910",
+    "beat": "The door is open. The lights are on."
+  },
+  {
+    "start_time": "5.020",
+    "end_time": "7.333",
+    "beat": "Nobody is supposed to be here."
+  },
+  {
+    "start_time": "7.500",
+    "end_time": "9.120",
+    "beat": "And yet."
+  },
+  {
+    "start_time": "9.300",
+    "end_time": "12.000",
+    "beat": "Someone left a note on the table."
+  }
+]
